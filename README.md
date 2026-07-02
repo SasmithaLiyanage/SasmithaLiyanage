@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Sasmitha%20Liyanage&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Undergraduate&descAlignY=58&descSize=18" width="100%"/>
 
-<div align="center">
+<div align="start">
 
 ```bash
 sasmitha@dev:~$ whoami
