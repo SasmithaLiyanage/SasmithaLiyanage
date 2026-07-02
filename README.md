@@ -86,14 +86,6 @@ sasmitha@dev:~$ ./connect.sh
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SasmithaLiyanage&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SasmithaLiyanage&style=for-the-badge&color=6C63FF" alt="Profile views" />
 </p>
