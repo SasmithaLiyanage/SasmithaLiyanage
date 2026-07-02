@@ -47,7 +47,7 @@ sasmitha@dev:~$ ./connect.sh
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,python,java,html,css,git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,spring,python,java,html,css,git,github,mysql,vscode" />
 </p>
 
 ---
@@ -61,10 +61,14 @@ sasmitha@dev:~$ ./connect.sh
   <a href="https://github.com/SasmithaLiyanage/gym-management-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasmithaLiyanage&repo=gym-management-system&theme=radical" />
   </a>
+  <a href="https://github.com/SasmithaLiyanage/ceylonadvisor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasmithaLiyanage&repo=ceylonadvisor&theme=radical" />
+  </a>
 </p>
 
 - 🖨️ **[POS System](https://github.com/SasmithaLiyanage/pos-system)** — A point-of-sale system built for a graphic design agency using JavaScript.
 - 🏋️ **[Gym Management System](https://github.com/SasmithaLiyanage/gym-management-system)** — A PHP-based web app for managing gym memberships and operations.
+- 🏝️ **[CeylonAdvisor](https://github.com/SasmithaLiyanage/ceylonadvisor)** — A full-stack booking platform (Spring Boot + JavaScript) connecting travelers with property owners, inspired by Booking.com and Agoda, complete with a partner dashboard.
 - 🌐 **[Personal Portfolio](https://sasmithaliyanage.github.io)** — My personal website showcasing my work and skills.
 
 ---
