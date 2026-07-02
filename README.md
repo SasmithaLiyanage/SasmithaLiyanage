@@ -54,6 +54,18 @@ sasmitha@dev:~$ ./connect.sh
 
 ### 📌 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/SasmithaLiyanage/pos-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasmithaLiyanage&repo=pos-system&theme=radical" />
+  </a>
+  <a href="https://github.com/SasmithaLiyanage/gym-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasmithaLiyanage&repo=gym-management-system&theme=radical" />
+  </a>
+  <a href="https://github.com/SasmithaLiyanage/ceylonadvisor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasmithaLiyanage&repo=ceylonadvisor&theme=radical" />
+  </a>
+</p>
+
 - 🖨️ **[POS System](https://github.com/SasmithaLiyanage/pos-system)** — A point-of-sale system built for a graphic design agency using JavaScript.
 - 🏋️ **[Gym Management System](https://github.com/SasmithaLiyanage/gym-management-system)** — A PHP-based web app for managing gym memberships and operations.
 - 🏝️ **[CeylonAdvisor](https://github.com/SasmithaLiyanage/ceylonadvisor)** — A full-stack booking platform (Spring Boot + JavaScript) connecting travelers with property owners, inspired by Booking.com and Agoda, complete with a partner dashboard.
@@ -65,7 +77,11 @@ sasmitha@dev:~$ ./connect.sh
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SasmithaLiyanage&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasmithaLiyanage&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SasmithaLiyanage&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasmithaLiyanage&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
