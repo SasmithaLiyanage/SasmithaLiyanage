@@ -1,17 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Sasmitha%20Liyanage&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Undergraduate&descAlignY=58&descSize=18" width="100%"/>
 
-<div align="start">
-
 ```bash
 sasmitha@dev:~$ whoami
 > BSc (Hons) Computer Science Undergraduate
 > Full Stack Web Developer
 > Stack: JavaScript · TypeScript · React · PHP · Python · Java
-
 sasmitha@dev:~$ ./connect.sh
 ```
-
-</div>
 
 <table align="center">
   <tr>
@@ -47,7 +42,7 @@ sasmitha@dev:~$ ./connect.sh
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,spring,python,java,html,css,git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,spring,python,java,html,css,git,github,mysql,mongodb,docker,vscode" />
 </p>
 
 ---
@@ -77,7 +72,7 @@ sasmitha@dev:~$ ./connect.sh
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SasmithaLiyanage&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SasmithaLiyanage&theme=radical&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=SasmithaLiyanage&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
