@@ -42,7 +42,7 @@ sasmitha@dev:~$ ./connect.sh
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,spring,python,java,html,css,git,github,mysql,mongodb,docker,vscode,visualstudio,dotnet,cs,idea,ps,postman,powershell,vercel,tailwind,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,spring,python,java,html,css,git,github,mysql,mongodb,docker,vscode,visualstudio,dotnet,cs,idea,ps,figma,postman,powershell,vercel,tailwind,aws" />
 </p>
 
 ---
