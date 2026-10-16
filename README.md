@@ -1,88 +1,136 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Sasmitha%20Liyanage&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Undergraduate&descAlignY=58&descSize=18" width="100%"/>
+<div align="center">
 
-```bash
-sasmitha@dev:~$ whoami
-> BSc (Hons) Computer Science Undergraduate
-> Full Stack Web Developer
-> Stack: JavaScript · TypeScript · React · PHP · Python · Java
-sasmitha@dev:~$ ./connect.sh
-```
+<a href="https://motion.dev">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F0C,50:101A14,100:0B0F0C&height=230&section=header&text=Sasmitha%20Liyanage&fontSize=54&fontColor=F5FFF8&fontAlignY=42&desc=Building%20digital%20experiences%20with%20code.&descSize=17&descColor=B5C7BC&descAlignY=64&animation=fadeIn" width="100%" alt="Sasmitha Liyanage — Full Stack Developer"/>
+</a>
 
-<table align="center">
+<br/>
+
+<a href="https://www.linkedin.com/in/sasmitha-liyanage-a58068202">
+  <img src="https://img.shields.io/badge/LinkedIn-111113?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:sasmithaliyanage@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111113?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://sasmithaliyanage.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-111113?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://github.com/SasmithaLiyanage">
+  <img src="https://img.shields.io/badge/GitHub-111113?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**Computer Science Undergraduate · Full Stack Developer**
+
+*I turn ideas into practical, thoughtfully designed software.*
+
+</div>
+
+---
+
+## `01` — A little about me
+
+I'm a BSc (Hons) Computer Science undergraduate who enjoys building full-stack applications and exploring modern web technologies.
+
+- Building web applications from interface to backend
+- Exploring tools and technologies that make products useful and reliable
+- Always learning, experimenting, and turning ideas into working projects
+
+---
+
+## `02` — Tech I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,spring,python,java,html,css,tailwind,mysql,mongodb,docker,git,github,vscode,visualstudio,dotnet,cs,idea,figma,postman,powershell,vercel,aws&theme=dark" alt="Technologies and tools"/>
+
+</div>
+
+---
+
+## `03` — Selected work
+
+<table>
   <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/sasmitha-liyanage-a58068202" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00C9A7&labelColor=1a1a1a" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:sasmithaliyanage@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=6C63FF&labelColor=1a1a1a" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sasmithaliyanage.github.io" target="_blank">
-        <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=FFD700&labelColor=1a1a1a" />
-      </a>
-    </td>
+    <td width="50%" valign="top">
+
+### 🧾 POS System
+
+A point-of-sale system built for a graphic design agency using JavaScript.
+
+[Explore repository ↗](https://github.com/SasmithaLiyanage/pos-system)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🏋️ Gym Management System
+
+A PHP-based web application for managing gym memberships and operations.
+
+[Explore repository ↗](https://github.com/SasmithaLiyanage/gym-management-system)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏝️ CeylonAdvisor
+
+A full-stack booking platform built with Spring Boot and JavaScript, connecting travelers with property owners and featuring a partner dashboard.
+
+[Explore repository ↗](https://github.com/SasmithaLiyanage/ceylonadvisor)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+A personal website showcasing my work, skills, and developer journey.
+
+[Visit portfolio ↗](https://sasmithaliyanage.github.io)
+
+</td>
   </tr>
 </table>
 
 ---
 
-### 🚀 About Me
+## `04` — GitHub activity
 
-- 🎓 BSc (Hons) in Computer Science undergraduate
-- 💻 Passionate about building full-stack web applications
-- 🌱 Currently sharpening my skills in modern web development
-- ⚡ Fun fact: I love turning ideas into working products!
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SasmithaLiyanage&show_icons=true&hide_border=true&bg_color=0B0F0C&title_color=F5FFF8&text_color=B5C7BC&icon_color=50CE88&ring_color=50CE88" alt="GitHub statistics"/>
+&nbsp;
+<img height="170" src="https://streak-stats.demolab.com?user=SasmithaLiyanage&hide_border=true&background=0B0F0C&ring=50CE88&fire=50CE88&currStreakLabel=F5FFF8&sideLabels=B5C7BC&currStreakNum=F5FFF8&sideNums=F5FFF8&dates=718078" alt="GitHub contribution streak"/>
 
-### 🛠️ Tech Stack
+<br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,spring,python,java,html,css,git,github,mysql,mongodb,docker,vscode,visualstudio,dotnet,cs,idea,ps,figma,postman,powershell,vercel,tailwind,aws" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasmithaLiyanage&layout=compact&hide_border=true&bg_color=0B0F0C&title_color=F5FFF8&text_color=B5C7BC" alt="Most used programming languages"/>
 
----
-
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/SasmithaLiyanage/pos-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasmithaLiyanage&repo=pos-system&theme=radical" />
-  </a>
-  <a href="https://github.com/SasmithaLiyanage/gym-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasmithaLiyanage&repo=gym-management-system&theme=radical" />
-  </a>
-  <a href="https://github.com/SasmithaLiyanage/ceylonadvisor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SasmithaLiyanage&repo=ceylonadvisor&theme=radical" />
-  </a>
-</p>
-
-- 🖨️ **[POS System](https://github.com/SasmithaLiyanage/pos-system)** — A point-of-sale system built for a graphic design agency using JavaScript.
-- 🏋️ **[Gym Management System](https://github.com/SasmithaLiyanage/gym-management-system)** — A PHP-based web app for managing gym memberships and operations.
-- 🏝️ **[CeylonAdvisor](https://github.com/SasmithaLiyanage/ceylonadvisor)** — A full-stack booking platform (Spring Boot + JavaScript) connecting travelers with property owners, inspired by Booking.com and Agoda, complete with a partner dashboard.
-- 🌐 **[Personal Portfolio](https://sasmithaliyanage.github.io)** — My personal website showcasing my work and skills.
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SasmithaLiyanage&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=SasmithaLiyanage&theme=radical&hide_border=true" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=SasmithaLiyanage&style=flat&color=50CE88&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasmithaLiyanage&layout=compact&theme=radical&hide_border=true" />
-</p>
+<br/><br/>
 
----
+**Have an interesting idea? Let's connect.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SasmithaLiyanage&style=for-the-badge&color=6C63FF" alt="Profile views" />
-</p>
+<a href="https://www.linkedin.com/in/sasmitha-liyanage-a58068202">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="mailto:sasmithaliyanage@gmail.com">Email me</a>
+&nbsp;·&nbsp;
+<a href="https://sasmithaliyanage.github.io">Portfolio</a>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/SasmithaLiyanage">SasmithaLiyanage</a> — Thanks for stopping by!</i></p>
+<br/><br/>
+
+<sub>Designed with a minimal, motion-inspired aesthetic in near-black and Motion green.</sub>
+
+</div>
