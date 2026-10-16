@@ -22,19 +22,13 @@
 
 <br/><br/>
 
-<img src="./assets/edge-motion.svg" width="100%" alt="Animated Motion green edge line"/>
-
 **Computer Science Undergraduate · Full Stack Developer**
 
 *Minimal UI. Thoughtful code. Constant motion.*
 
 </div>
 
----
-
-## `01` — A little about me
-
-<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
+<img src="./assets/section-about.svg" width="100%" alt="About me section"/>
 
 I'm a BSc (Hons) Computer Science undergraduate focused on building useful software and steadily expanding my engineering skills. I enjoy connecting clean user interfaces with reliable backend systems, and I'm exploring how cloud platforms, machine learning, and DevOps practices can take applications from a local project to a dependable product.
 
@@ -46,11 +40,7 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
 
 *Cloud, ML, and DevOps are areas I'm actively exploring and developing—not claims of expert-level experience.*
 
----
-
-## `02` — Tech I work with
-
-<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
+<img src="./assets/section-tech.svg" width="100%" alt="Tech stack section"/>
 
 <div align="center">
 
@@ -60,17 +50,13 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
 
 ---
 
----
-
-## `03` — What I'm exploring
-
-<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
+<img src="./assets/section-focus.svg" width="100%" alt="Career focus section"/>
 
 <table>
   <tr>
     <td width="33%" valign="top">
 
-### ☁️ Cloud Engineering
+### Cloud Engineering
 
 - Cloud fundamentals and core services
 - Application deployment and hosting
@@ -79,7 +65,7 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
 </td>
     <td width="33%" valign="top">
 
-### 🧠 Machine Learning
+### Machine Learning
 
 - Python and data preparation
 - Understanding and evaluating ML models
@@ -88,7 +74,7 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
 </td>
     <td width="33%" valign="top">
 
-### ⚙️ DevOps
+### DevOps
 
 - Git-based collaboration and workflows
 - Docker and container fundamentals
@@ -98,19 +84,13 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
   </tr>
 </table>
 
----
-
-## `04` — Selected work
-
-<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
-
-<img src="./assets/edge-motion.svg" width="100%" alt="Animated green motion divider"/>
+<img src="./assets/section-projects.svg" width="100%" alt="Selected work section"/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🧾 POS System
+### POS System
 
 A point-of-sale system built for a graphic design agency using JavaScript.
 
@@ -119,7 +99,7 @@ A point-of-sale system built for a graphic design agency using JavaScript.
 </td>
     <td width="50%" valign="top">
 
-### 🏋️ Gym Management System
+### Gym Management System
 
 A PHP-based web application for managing gym memberships and operations.
 
@@ -130,7 +110,7 @@ A PHP-based web application for managing gym memberships and operations.
   <tr>
     <td width="50%" valign="top">
 
-### 🏝️ CeylonAdvisor
+### CeylonAdvisor
 
 A full-stack booking platform built with Spring Boot and JavaScript, connecting travelers with property owners and featuring a partner dashboard.
 
@@ -139,7 +119,7 @@ A full-stack booking platform built with Spring Boot and JavaScript, connecting 
 </td>
     <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
+### Personal Portfolio
 
 A personal website showcasing my work, skills, and developer journey.
 
@@ -149,11 +129,7 @@ A personal website showcasing my work, skills, and developer journey.
   </tr>
 </table>
 
----
-
-## `05` — GitHub activity
-
-<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
+<img src="./assets/section-activity.svg" width="100%" alt="GitHub activity section"/>
 
 <div align="center">
 
@@ -166,8 +142,6 @@ A personal website showcasing my work, skills, and developer journey.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasmithaLiyanage&layout=compact&hide_border=true&bg_color=0B0F0C&title_color=F5FFF8&text_color=B5C7BC" alt="Most used programming languages"/>
 
 </div>
-
----
 
 <div align="center">
 
