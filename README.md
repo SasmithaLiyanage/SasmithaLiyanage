@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://motion.dev">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F0C,50:101A14,100:0B0F0C&height=230&section=header&text=Sasmitha%20Liyanage&fontSize=54&fontColor=F5FFF8&fontAlignY=42&desc=Building%20digital%20experiences%20with%20code.&descSize=17&descColor=B5C7BC&descAlignY=64&animation=fadeIn" width="100%" alt="Sasmitha Liyanage — Full Stack Developer"/>
-</a>
+<img src="./assets/motion-hero.svg" width="100%" alt="Sasmitha Liyanage profile header with floating animated bots and Motion-inspired green UI"/>
 
 <br/>
 
@@ -24,9 +22,11 @@
 
 <br/><br/>
 
+<img src="./assets/edge-motion.svg" width="100%" alt="Animated Motion green edge line"/>
+
 **Computer Science Undergraduate · Full Stack Developer**
 
-*I turn ideas into practical, thoughtfully designed software.*
+*Minimal UI. Thoughtful code. Constant motion.*
 
 </div>
 
