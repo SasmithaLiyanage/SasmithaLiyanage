@@ -34,6 +34,8 @@
 
 ## `01` — A little about me
 
+<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
+
 I'm a BSc (Hons) Computer Science undergraduate who enjoys building full-stack applications and exploring modern web technologies.
 
 - Building web applications from interface to backend
@@ -44,6 +46,8 @@ I'm a BSc (Hons) Computer Science undergraduate who enjoys building full-stack a
 
 ## `02` — Tech I work with
 
+<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,spring,python,java,html,css,tailwind,mysql,mongodb,docker,git,github,vscode,visualstudio,dotnet,cs,idea,figma,postman,powershell,vercel,aws&theme=dark" alt="Technologies and tools"/>
@@ -53,6 +57,10 @@ I'm a BSc (Hons) Computer Science undergraduate who enjoys building full-stack a
 ---
 
 ## `03` — Selected work
+
+<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
+
+<img src="./assets/edge-motion.svg" width="100%" alt="Animated green motion divider"/>
 
 <table>
   <tr>
@@ -100,6 +108,8 @@ A personal website showcasing my work, skills, and developer journey.
 ---
 
 ## `04` — GitHub activity
+
+<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
 
 <div align="center">
 

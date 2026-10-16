@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="10" viewBox="0 0 1200 10">
+<rect width="1200" height="10" fill="#0B0F0C"/>
+<path d="M0 5H1200" stroke="#214C34" stroke-width="1"/>
+<circle cx="0" cy="5" r="3" fill="#50CE88"><animate attributeName="cx" values="0;1200;0" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="0" cy="5" r="2" fill="#B8F5D0" opacity=".8"><animate attributeName="cx" values="0;1200;0" dur="6s" begin=".6s" repeatCount="indefinite"/></circle>
+</svg>
