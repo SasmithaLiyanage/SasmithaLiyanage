@@ -48,15 +48,13 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
 
 </div>
 
----
-
 <img src="./assets/section-focus.svg" width="100%" alt="Career focus section"/>
 
 <table>
   <tr>
     <td width="33%" valign="top">
 
-### Cloud Engineering
+<strong>Cloud Engineering</strong>
 
 - Cloud fundamentals and core services
 - Application deployment and hosting
@@ -65,7 +63,7 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
 </td>
     <td width="33%" valign="top">
 
-### Machine Learning
+<strong>Machine Learning</strong>
 
 - Python and data preparation
 - Understanding and evaluating ML models
@@ -74,7 +72,7 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
 </td>
     <td width="33%" valign="top">
 
-### DevOps
+<strong>DevOps</strong>
 
 - Git-based collaboration and workflows
 - Docker and container fundamentals
