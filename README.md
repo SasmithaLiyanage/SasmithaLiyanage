@@ -40,6 +40,7 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
 
 *Cloud, ML, and DevOps are areas I'm actively exploring and developing—not claims of expert-level experience.*
 
+<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
 <br>
 <img src="./assets/section-tech.svg" width="100%" alt="Tech stack section"/>
 
@@ -49,6 +50,7 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
 
 </div>
 
+<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
 <br>
 <img src="./assets/section-focus.svg" width="100%" alt="Career focus section"/>
 
@@ -84,7 +86,9 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
   </tr>
 </table>
 
+<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
 <br>
+
 <img src="./assets/section-projects.svg" width="100%" alt="Selected work section"/>
 
 <table>
@@ -129,6 +133,10 @@ A personal website showcasing my work, skills, and developer journey.
 </td>
   </tr>
 </table>
+<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
+
+<br>
+<br>
 
 <img src="./assets/section-activity.svg" width="100%" alt="GitHub activity section"/>
 
@@ -148,6 +156,8 @@ A personal website showcasing my work, skills, and developer journey.
 
 <img src="https://komarev.com/ghpvc/?username=SasmithaLiyanage&style=flat&color=50CE88&label=PROFILE+VIEWS" alt="Profile views"/>
 
+
+<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
 <br/><br/>
 
 **Have an interesting idea? Let's connect.**
