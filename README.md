@@ -29,6 +29,7 @@
 </div>
 
 <img src="./assets/section-about.svg" width="100%" alt="About me section"/>
+<br>
 
 I'm a BSc (Hons) Computer Science undergraduate focused on building useful software and steadily expanding my engineering skills. I enjoy connecting clean user interfaces with reliable backend systems, and I'm exploring how cloud platforms, machine learning, and DevOps practices can take applications from a local project to a dependable product.
 
