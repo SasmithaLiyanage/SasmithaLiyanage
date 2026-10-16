@@ -36,11 +36,15 @@
 
 <img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
 
-I'm a BSc (Hons) Computer Science undergraduate who enjoys building full-stack applications and exploring modern web technologies.
+I'm a BSc (Hons) Computer Science undergraduate focused on building useful software and steadily expanding my engineering skills. I enjoy connecting clean user interfaces with reliable backend systems, and I'm exploring how cloud platforms, machine learning, and DevOps practices can take applications from a local project to a dependable product.
 
-- Building web applications from interface to backend
-- Exploring tools and technologies that make products useful and reliable
-- Always learning, experimenting, and turning ideas into working projects
+- **Full-stack development:** building web applications across frontend and backend
+- **Cloud:** learning deployment, cloud services, and scalable infrastructure
+- **Machine learning:** exploring data workflows, model training, and AI-powered applications
+- **DevOps:** developing an automation-first mindset around Git, containers, CI/CD, and deployment
+- **Engineering mindset:** learning by building, testing, documenting, and improving projects
+
+*Cloud, ML, and DevOps are areas I'm actively exploring and developing—not claims of expert-level experience.*
 
 ---
 
@@ -56,7 +60,47 @@ I'm a BSc (Hons) Computer Science undergraduate who enjoys building full-stack a
 
 ---
 
-## `03` — Selected work
+---
+
+## `03` — What I'm exploring
+
+<img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### ☁️ Cloud Engineering
+
+- Cloud fundamentals and core services
+- Application deployment and hosting
+- Scalability, reliability, and infrastructure basics
+
+</td>
+    <td width="33%" valign="top">
+
+### 🧠 Machine Learning
+
+- Python and data preparation
+- Understanding and evaluating ML models
+- Building small AI-powered experiments
+
+</td>
+    <td width="33%" valign="top">
+
+### ⚙️ DevOps
+
+- Git-based collaboration and workflows
+- Docker and container fundamentals
+- CI/CD concepts and automated deployment
+
+</td>
+  </tr>
+</table>
+
+---
+
+## `04` — Selected work
 
 <img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
 
@@ -107,7 +151,7 @@ A personal website showcasing my work, skills, and developer journey.
 
 ---
 
-## `04` — GitHub activity
+## `05` — GitHub activity
 
 <img src="./assets/text-motion.svg" width="100%" alt="Animated green motion accent"/>
 
