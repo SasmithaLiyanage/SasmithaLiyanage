@@ -29,7 +29,6 @@
 </div>
 
 <img src="./assets/section-about.svg" width="100%" alt="About me section"/>
-<br>
 
 I'm a BSc (Hons) Computer Science undergraduate focused on building useful software and steadily expanding my engineering skills. I enjoy connecting clean user interfaces with reliable backend systems, and I'm exploring how cloud platforms, machine learning, and DevOps practices can take applications from a local project to a dependable product.
 
@@ -41,6 +40,7 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
 
 *Cloud, ML, and DevOps are areas I'm actively exploring and developing—not claims of expert-level experience.*
 
+<br>
 <img src="./assets/section-tech.svg" width="100%" alt="Tech stack section"/>
 
 <div align="center">
@@ -49,6 +49,7 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
 
 </div>
 
+<br>
 <img src="./assets/section-focus.svg" width="100%" alt="Career focus section"/>
 
 <table>
@@ -83,6 +84,7 @@ I'm a BSc (Hons) Computer Science undergraduate focused on building useful softw
   </tr>
 </table>
 
+<br>
 <img src="./assets/section-projects.svg" width="100%" alt="Selected work section"/>
 
 <table>
